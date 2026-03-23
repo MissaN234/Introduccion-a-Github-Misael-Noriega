@@ -1,0 +1,7 @@
+Misael Noriega
+
+23/03/2026
+
+Aprender a utilizar github
+
+es para bajar cambios de una rama a otra 
