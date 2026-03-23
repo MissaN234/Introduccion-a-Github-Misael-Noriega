@@ -1,3 +1,3 @@
 Proyecto: Git Conflicts
-Responsable: Misael Noriega
+Responsable: EQUIPO-B
 Version: 1.0
